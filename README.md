@@ -4,9 +4,9 @@ This Real-Time Chat Application is a feature-rich communication platform designe
 #### Client: ReactJS
 
 #### Server: NodeJS and express
-Build a scalable, realtime chat app with Node JS, React JS, and ChatEngine.io
+Built a scalable, realtime chat app with Node JS, React JS, and ChatEngine.io
 
-The client-side of the application is built using ReatJS components for building interactive and dynamic web pages.Bootstrap is used for styling and responsive design.
+The client-side of the application is built using ReactJS components for building interactive and dynamic web pages.Bootstrap is used for styling and responsive design.
 
 The server-side of the application is built using NodeJS which is a javascript runtime environment for running JavaScript programs and is used to build server-side applications.
 ExpressJS is used to handle a variety of different HTTP demands.
