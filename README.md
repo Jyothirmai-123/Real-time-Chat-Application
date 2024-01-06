@@ -16,24 +16,24 @@ ExpressJS is used to handle a variety of different HTTP demands.
 ## Key Features:
 
 1. User Authentication:
- * Implements secure user authentication to ensure private and authenticated access.
- * Users can create accounts, log in securely, and personalize their profiles.
+ 1. Implements secure user authentication to ensure private and authenticated access.
+ 2. Users can create accounts, log in securely, and personalize their profiles.
 2. Private Chats:
- * Users can initiate private one-on-one conversations for confidential and personalized communication.
- * End-to-end encryption ensures the security and privacy of private messages.
+ 1. Users can initiate private one-on-one conversations for confidential and personalized communication.
+ 2. End-to-end encryption ensures the security and privacy of private messages.
 3. Group Chats:
- * Facilitates collaboration and team communication through group chat functionality.
- * Users can create, join, and manage group chats for specific projects or interests.
+ 1. Facilitates collaboration and team communication through group chat functionality.
+ 2. Users can create, join, and manage group chats for specific projects or interests.
 4. Real-Time Online Status:
- * Provides real-time indicators to showcase the online/offline status of users.
- * Enhances user connectivity by allowing them to see when others are available for communication.
+ 1. Provides real-time indicators to showcase the online/offline status of users.
+ 2. Enhances user connectivity by allowing them to see when others are available for communication.
 5. Emoji and Multimedia Support:
- * Enhance user expression by incorporating emojis and multimedia features such as image and file sharing.
+ 1. Enhance user expression by incorporating emojis and multimedia features such as image and file sharing.
 6. Message Persistence:
- * Messages are stored securely, providing users with chat history across sessions.
- * Supports the retrieval of past messages for a comprehensive chat log.
+ 1. Messages are stored securely, providing users with chat history across sessions.
+ 2. Supports the retrieval of past messages for a comprehensive chat log.
 7. Chat Deletion:
- * Users can selectively delete private or group chat histories.
+ 1. Users can selectively delete private or group chat histories.
 
 ## Screencaps
 
