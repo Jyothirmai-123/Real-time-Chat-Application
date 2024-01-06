@@ -15,7 +15,7 @@ ExpressJS is used to handle a variety of different HTTP demands.
 
 ## Key Features:
 
-#### 1. User Authentication:
+1. User Authentication:
    1. Implements secure user authentication to ensure private and authenticated access.
    2. Users can create accounts, log in securely, and personalize their profiles.
 2. Private Chats:
